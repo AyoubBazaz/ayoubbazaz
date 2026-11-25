@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ayoub-bazaz-275ba126b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:ayoubbazaz02@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.ayoubbazazportfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://ayoubbazazportfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 <p align="center">
@@ -77,9 +77,10 @@ Full-Stack Developer who has been building web and mobile apps since 2022. I enj
 
 | Project | Description | Stack |
 |---|---|---|
-| [**Project One**](https://github.com/YOUR-USERNAME/project-one) | Short description of what it does and the problem it solves | React, Node.js, MongoDB |
-| [**Project Two**](https://github.com/YOUR-USERNAME/project-two) | Short description of what it does and the problem it solves | Next.js, Spring Boot, PostgreSQL |
-| [**Project Three**](https://github.com/YOUR-USERNAME/project-three) | Short description of what it does and the problem it solves | React Native, Express, AWS |
+| [**LM Connect**](https://github.com/AyoubBazaz/LM-frontend) | Client platform for Group L&M with role-based access and a subscription & payment system (Stripe) | Next.js, Spring Boot, MySQL, Docker |
+| [**Distripin**](https://github.com/AyoubBazaz/distripin-front) | B2B distribution platform that connects businesses and manages orders between them | PostgreSQL, Express, React, Node.js (PERN) |
+| [**Lotentika**](https://github.com/AyoubBazaz/lotentika-UI) | Full-stack website with a React frontend and a Spring Boot REST API · [lotentika.com](https://lotentika.com) | React, Spring Boot |
+| **Upfeel** | Cross-platform mobile app (iOS & Android) backed by a Spring Boot API | React Native, Spring Boot |
 
 ---
 
@@ -93,12 +94,12 @@ Full-Stack Developer who has been building web and mobile apps since 2022. I enj
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AyoubBazaz&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyoubBazaz&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR-USERNAME&hide_border=true&theme=tokyonight" alt="GitHub streak"/>
+  <img src="https://streak-stats.demolab.com?user=AyoubBazaz&hide_border=true&theme=tokyonight" alt="GitHub streak"/>
 </p>
 
 ---
